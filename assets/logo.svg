@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="170 95 395 360">
+  <defs>
+    <mask id="glora-cut">
+      <rect x="0" y="0" width="736" height="552" fill="#fff"/>
+      <polygon points="453,100 580,100 580,207 400,207" fill="#000"/>
+      <polygon points="250,207 400,207 345,292 452,292 487,345 340,345" fill="#000"/>
+    </mask>
+  </defs>
+  <polygon points="290,117 447,117 540,275 447,432 290,432 195,275" fill="#fff" stroke="#fff" stroke-width="34" stroke-linejoin="round" mask="url(#glora-cut)"/>
+</svg>
